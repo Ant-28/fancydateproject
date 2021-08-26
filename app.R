@@ -1,10 +1,9 @@
-
-
 if(!require("tidyverse")) install.packages("tidyverse")
 
 if(!require("stringr")) install.packages("stringr")
 
-if(!require("shiny")) install.packages(shiny)
+if(!require("shiny")) install.packages("shiny")
+
 library(tidyverse)
 
 library(stringr)
